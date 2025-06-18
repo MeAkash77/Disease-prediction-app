@@ -4,7 +4,7 @@ This project aims to predict the risk of four significant chronic diseases: asth
 
 The web application is built using **React** for the frontend and **Flask** for the backend, and it is fully deployed to provide real-time predictions based on user inputs.
 
-**Website Link**: [Chronic Disease Prediction App](https://disease-prediction-app.vercel.app/)
+**Website Link**: [Chronic Disease Prediction App](https://disease-prediction-app-nine.vercel.app/)
 
 ---
 
@@ -82,11 +82,3 @@ Below is a grid showcasing the application's interface and key features:
 6. Start the frontend:
    ```bash
    npm run dev
-
-## Contact
-Created by:
-- Shreyas DK - shreyasdk.is22@bmsce.ac.in
-- Somanath Mikali - somanath.is22@bmsce.ac.in
-- Vishesh P Gowda - vishesh.is22@bmsce.ac.in
-- Uttam Seervi - uttam.is22@bmsce.ac.in
-- Uday CA - udayshankar.is23@bmsce.ac.in

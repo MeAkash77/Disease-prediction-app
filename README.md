@@ -62,7 +62,7 @@ Below is a grid showcasing the application's interface and key features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Somanath2314/disease-prediction-app.git
+   git clone https://github.com/MeAkash77/Disease-prediction-app.git
 2. Navigate to the project directory:
    ```bash
    cd disease-prediction-app
